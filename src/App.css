@@ -48,14 +48,14 @@ button {
   color: #111;
   border-radius: 15px;
   padding: 5px;
-  border: 5px solid #234668;
+  border: 5px solid #486823;
   cursor: pointer;
   outline: none;
   margin-bottom: 14px;
 }
 
-button:hover {
-  background-color: #555e7d;
+button:hover:active {
+  background-color: #52535a;
 }
 
 .score-container {
