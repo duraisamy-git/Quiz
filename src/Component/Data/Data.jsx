@@ -58,27 +58,27 @@ export default [
     questionText: "What does HTML stand for?",
     answerOptions: [
       { answerText: "Hyperlinks and TextMarkup Language", isCorrect: false },
-      { answerText: "Hyper Text Markup Language", isCorrect: false },
+      { answerText: "Hyper Text Markup Language", isCorrect: true },
       { answerText: "Home Tool Markup Language", isCorrect: false },
-      { answerText: "Hyper Text Transfer Protocol", isCorrect: true },
+      { answerText: "Hyper Text Transfer Protocol", isCorrect: false },
     ],
   },
   {
-    questionText: "Which tag us",
+    questionText: "Which one is not Programming Language?",
     answerOptions: [
-      { answerText: "None", isCorrect: false },
-      { answerText: "FrameWork", isCorrect: false },
-      { answerText: "Both", isCorrect: false },
-      { answerText: "Library", isCorrect: true },
+      { answerText: "java", isCorrect: false },
+      { answerText: "JavaScript", isCorrect: false },
+      { answerText: "HTML", isCorrect: true },
+      { answerText: "Python", isCorrect: false },
     ],
   },
   {
-    questionText: "React is a?",
+    questionText: "Who invented Computer?",
     answerOptions: [
-      { answerText: "None", isCorrect: false },
-      { answerText: "FrameWork", isCorrect: false },
-      { answerText: "Both", isCorrect: false },
-      { answerText: "Library", isCorrect: true },
+      { answerText: "Albert Einstein", isCorrect: false },
+      { answerText: "Galileo", isCorrect: false },
+      { answerText: "Thomas Edison", isCorrect: false },
+      { answerText: "Charles Babbage", isCorrect: true },
     ],
   }, ////////
   {

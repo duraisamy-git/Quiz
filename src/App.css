@@ -79,11 +79,11 @@ button:active {
   margin-top: 12px;
 }
 
-@media (max-width: 600px) {
+@media (width < 600px) {
   body {
     background-color: aqua;
   }
   .app {
-    width: 350px;
+    width: 300px;
   }
 }
