@@ -1,6 +1,6 @@
 export default [
   {
-    questionText: "Waht is the captial of France?",
+    questionText: "What is the captial of France?",
     answerOptions: [
       { answerText: "New York", isCorrect: false },
       { answerText: "London", isCorrect: false },
